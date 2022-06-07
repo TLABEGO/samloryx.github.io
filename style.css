@@ -430,11 +430,11 @@ a, button {
 #detail p{
 	font-size: 15px;
 	line-height: 25px;
-	font-variant: small-caps;
 	text-align: center;
 	margin: 25px;
 	margin-bottom: 0px;
 	margin-top: 0px;
+	font-family: 'Open Sans', sans-serif;
 }
 #detail button {
 	outline: none;
@@ -614,7 +614,7 @@ form textarea {
 	margin-bottom: 40px;
 	background: #fff;
 	display: flex;
-	padding: 10px;
+	padding: px;
 	box-shadow: 2px 2px 20px rgba(0,0,0,0.2);
 }
 .rev-card:hover {
