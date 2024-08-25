@@ -1,5 +1,5 @@
 # samloryx Consultancy
 
 To learn more:
-Visit: www.samloryxconsultancy.co.za
-Enquires: info@samloryxconsultancy.co.za
+Visit: www.samloryxconsultancy.com
+Enquires: info@samloryxconsultancy.com
